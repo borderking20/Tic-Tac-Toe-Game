@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game this is made using html css and javascript. This is a very interesting game which can be played between 2 players. This is a responsive website.
+# Tic-Tac-Toe-Game this is made using html css and javascript. This is interactive and responsive web-app in which two players can play tic-tac-toe game. 
